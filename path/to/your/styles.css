@@ -1,0 +1,13 @@
+/* Workshop Section Styles */
+#workshops {
+    margin: 20px 0;
+    padding: 10px;
+    background-color: #f0f0f0;
+}
+
+/* Certificate Section Styles */
+#certificates {
+    margin: 20px 0;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
